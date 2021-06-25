@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment10.params=proximoQuadro
+comment10.target=greenfoot.GreenfootImage\ imagemDoNovoQuadro(int)
+comment2.params=
+comment2.target=int\ cicloAtual()
+comment3.params=
+comment3.target=void\ contaCiclo()
+comment4.params=
+comment4.target=void\ aplicarForcaDaGravidade()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ criadorDeMoedas()
+comment7.params=novaCena
+comment7.target=void\ projetor(greenfoot.GreenfootImage)
+comment8.params=
+comment8.target=greenfoot.GreenfootImage\ proximaCena()
+comment9.params=
+comment9.target=greenfoot.GreenfootImage\ filme()
+numComments=11
