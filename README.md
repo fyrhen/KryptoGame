@@ -5,4 +5,4 @@ PURPOSE OF PROJECT: Programação Orientada a Objetos<br/>
 VERSION or DATE: 30/11/2020<br/>
 HOW TO START THIS PROJECT: https://www.greenfoot.org/<br/>
 
-![Alt Text](KryptoGame.gif)
+![Alt Text](KryptoGame.gif?style=centerme)
