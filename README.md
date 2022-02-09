@@ -1,4 +1,4 @@
-# Projeto no Greenfoot para a matéria de Programação Orientada a Objetos
+# Project at Greenfoot for the subject of "Programação Orientada a Objetos"
 
 PROJECT TITLE: Krypto<br/>
 PURPOSE OF PROJECT: Programação Orientada a Objetos<br/>
